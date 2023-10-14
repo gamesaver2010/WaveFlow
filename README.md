@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/gamesaver2010/WaveFlowImages/main/image%20(3).png)
+![image](https://raw.githubusercontent.com/gamesaver2010/WaveFlowImages/main/image%20(4).png)
 # SwiftBar Plugin
 SwiftBar is a Roblox Studio plugin which is designed to replicate a spotlight search bar (as seen in MacOS and other operating systems), with more than just a search feature. SwiftBar, also referred to as ‘The Bar’, helps developers efficiently perform tasks within studio without having to use your mouse. The efficiency applied from the plugin relys purely on the users muscle memory with commands and shortcuts.
 # How-to-use
