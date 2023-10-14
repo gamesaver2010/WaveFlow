@@ -4,7 +4,11 @@ Introducing WaveFlow, your ultimate solution for effortless UI animations in Rob
 # How-to-use
 WaveFlow is designed to be fast and esay with amazing results! Every step of the way we have esay instructions on how to do it.
 
-https://github.com/Julpav/swiftbar/assets/55050718/6971dc02-2161-46a7-abfd-69f6fcd960ea
+![image](https://raw.githubusercontent.com/gamesaver2010/WaveFlowImages/main/Screenshot%202023-10-13%20232233.png)
+
+![image](https://raw.githubusercontent.com/gamesaver2010/WaveFlowImages/main/Screenshot%202023-10-13%20233303.png)
+
+![image](https://raw.githubusercontent.com/gamesaver2010/WaveFlowImages/main/Screenshot%202023-10-13%20232347.png)
 
 # Download
 Find the Plugin on the Roblox Marketplace [here!](https://create.roblox.com/marketplace/asset/)
