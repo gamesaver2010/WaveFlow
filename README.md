@@ -1,6 +1,6 @@
 ![image](https://raw.githubusercontent.com/gamesaver2010/WaveFlowImages/main/image%20(4).png)
-# SwiftBar Plugin
-SwiftBar is a Roblox Studio plugin which is designed to replicate a spotlight search bar (as seen in MacOS and other operating systems), with more than just a search feature. SwiftBar, also referred to as ‘The Bar’, helps developers efficiently perform tasks within studio without having to use your mouse. The efficiency applied from the plugin relys purely on the users muscle memory with commands and shortcuts.
+# WaveFlow Plugin
+Introducing WaveFlow, your ultimate solution for effortless UI animations in Roblox Studio! WaveFlow is a cutting-edge plugin designed to simplify the animation process for user interfaces, allowing creators to bring their games to life with just a few clicks. Whether you're a seasoned developer or just starting your Roblox journey, WaveFlow empowers you to add dynamic and eye-catching animations to your UI elements seamlessly.
 # How-to-use
 ### First time using it?
 You may be prompted to setup the Plugin before using. This will only take a sec.
