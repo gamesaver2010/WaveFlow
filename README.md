@@ -6,8 +6,6 @@ WaveFlow is designed to be fast and esay with amazing results! Every step of the
 
 https://github.com/Julpav/swiftbar/assets/55050718/6971dc02-2161-46a7-abfd-69f6fcd960ea
 
-### Confused what commands there are? Run the command “help” within SwiftBar or view the most recent release!
-
 # Download
 Find the Plugin on the Roblox Marketplace [here!](https://create.roblox.com/marketplace/asset/)
 
