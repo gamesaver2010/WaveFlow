@@ -1,5 +1,5 @@
 ![image](https://raw.githubusercontent.com/gamesaver2010/WaveFlowImages/main/image%20(4).png)
-# WaveFlow Plugin
+# About
 Introducing WaveFlow, your ultimate solution for effortless UI animations in Roblox Studio! WaveFlow is a cutting-edge plugin designed to simplify the animation process for user interfaces, allowing creators to bring their games to life with just a few clicks. Whether you're a seasoned developer or just starting your Roblox journey, WaveFlow empowers you to add dynamic and eye-catching animations to your UI elements seamlessly.
 # How-to-use
 ### First time using it?
